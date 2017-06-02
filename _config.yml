@@ -1,7 +1,7 @@
 # Site settings
 title: Life is beautiful
 description: "Winter is coming ..."
-baseurl: "/knightyee" 
+baseurl: "" 
 # for test: remove string '/space-jekyll-templa' to ''
 url: "http://knightyee.github.io" 
 # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
